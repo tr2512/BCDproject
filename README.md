@@ -1,2 +1,2 @@
-# cvfirstproject
-First simple project in BK.AI CV
+# Breast cancer detection
+Not really much to talk about, horrible results.
